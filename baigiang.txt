@@ -1,0 +1,22 @@
+https://gist.github.com/hvnsweeting/e6441abbbd9a415814c411b47b099dca - buoi 3
+
+https://gist.github.com/hvnsweeting/f7d6ffcfbe5189902bdfe1e65603d930 - buoi 4
+
+https://gist.github.com/hvnsweeting/276b5249261fe93a126137625708a531 - buoi 5
+
+https://gist.github.com/hvnsweeting/a68a272a6239ff0e2c2fbf1dd90ef719 - buoi 6
+
+https://gist.github.com/hvnsweeting/0c812a33f1ad5482358c211114410590 - buoi 7
+
+https://gist.github.com/hvnsweeting/4f265509765d2219b4d53d07fe5853ea - buoi 8
+
+https://gist.github.com/hvnsweeting/44d05b0627a0a1b739d222cd1e8e83e9 - buoi 9
+
+https://gist.github.com/hvnsweeting/d63cfb5fc66ff670898df5e171ef6d88 - buoi 10
+
+https://gist.github.com/hvnsweeting/3ce09df8d41e152052c97c79f13e963a - buoi 11
+
+https://gist.github.com/hvnsweeting/33ab82c53b17a0bf29f99368f4aa1a11 -buoi 12
+
+https://gitlab.com/pyfml/pyfml/blob/master/exercises.rst  - huong dan push bai tap len gitlab use GIT
+
